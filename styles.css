@@ -1,7 +1,19 @@
-html, body
+html, body, .cont-height
 {
     height: 100%;
     width: 100%;
+}
+.row-banner
+{
+    height: 20%;
+}
+.row-main
+{
+    height: 70%;
+}
+.row-footer
+{
+    height: 10%;
 }
 .banner-footer
 {
@@ -10,16 +22,24 @@ html, body
 .left-menu
 {
     background-color: #F99A3E;
+
 }
 .top-menu
 {
     background-color: #997b65;
+    height: 10%;
 }
 .photo-odd
 {
     background-color: rgb(194, 71, 71);
+    height: 10%;
 }
 .photo-even
 {
     background-color: aqua;
+    height: 10%;
+}
+.contents
+{
+    height: 35%;
 }
