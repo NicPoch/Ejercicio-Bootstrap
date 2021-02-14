@@ -32,14 +32,10 @@ html, body, .cont-height
 .photo-odd
 {
     background-color: rgb(194, 71, 71);
-    height: 10%;
+    height: auto;
 }
 .photo-even
 {
     background-color: aqua;
-    height: 10%;
-}
-.contents
-{
-    height: 35%;
+    height: auto;
 }
